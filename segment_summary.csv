@@ -1,0 +1,4 @@
+segment,age,annual_income,spending_score,purchase_freq,avg_order_value,loyalty_years,online_ratio,returns_rate,customer_count,segment_name
+0,47.06,114538.33,84.85,40.39,335.79,9.55,0.77,0.04,120,High-Value Loyalists
+1,30.0,37995.19,60.24,19.15,55.35,1.73,0.78,0.14,270,Bargain Hunters
+2,53.41,62963.64,24.84,5.55,103.87,5.88,0.27,0.2,110,At-Risk Customers

@@ -21,7 +21,7 @@ customer-segmentation/
 ├── customer_segmentation.ipynb            # Full analysis and clustering pipeline
 ├── customer_segments.csv                  # Final dataset with assigned customer segments
 ├── segment_summary.csv                    # Segment-level summary for business analysis
-├── customer_segmentation_dashboard.pbix   # Power BI dashboard
+├── customer_segmentation.pbix   # Power BI dashboard
 └── README.md
 ```
 
